@@ -17,7 +17,7 @@ This is my first project which I completed entirely on my own. I developed a Tic
 ### Python Version
 
   1. Run the script in a Python environment.
-  2. Players take turns entering their moves by specifying the row and column number.
+  2. Players take turns entering their moves by specifying the placement (choosing from index 0 -8).
   3. The game will display the updated board after each move.
   4. The game announces the winner or a draw when applicable.
 
